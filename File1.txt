@@ -1,8 +1,10 @@
 hello
 
 
-Change 1 : -> Login
+Change 1 : -> Login is enhanced
 
 Change 2 : ->Bug1 fix
 
 Change 3 : ->Bug2 fix
+
+change : commit made by team mate for fix

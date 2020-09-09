@@ -8,4 +8,7 @@ Change 2 : ->Bug1 fix
 Change 3 : ->Bug2 fix
 
 change : commit made by team mate for fix
+
 change 5: to test pull
+
+change 6 : CR2 by teammate on remote repo to test

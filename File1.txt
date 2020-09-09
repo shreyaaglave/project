@@ -1,14 +1,19 @@
 hello
 
 
-Change 1 : -> Login is enhanced
+Change 1 : Login is enhanced
 
-Change 2 : ->Bug1 fix
+Change 2 : Bug1 fix
 
-Change 3 : ->Bug2 fix
+Change 3 : Bug2 fix
 
 change : commit made by team mate for fix
 
 change 5: to test pull
 
+
 change 6 : CR2 by teammate on remote repo to test
+
+change 7: bug3 fix add local master remo
+hello
+
